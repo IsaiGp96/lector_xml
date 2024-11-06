@@ -1,0 +1,21 @@
+#form1{
+    box-sizing: initial;
+    height: 90%;
+    width: 80%;
+    margin-left: 10%;
+    /* padding-left: 10%; */
+    margin-top: 3%;
+    box-shadow: 20px black;
+    background-color: aliceblue;
+    border-radius: 3%;
+}
+
+#inputEmail4,#inputPassword4,#inputAddress,#inputAddress2,#formFile,#inputState{
+    width: 40%;
+    margin-left: 2%;
+}
+
+#boton_enviar{
+    margin-left: 4%;
+    margin-bottom: 1%;
+}
